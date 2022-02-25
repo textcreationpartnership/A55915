@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The prisoners remonstrance. To the right honourable, the Lord Generall Fairfax, and to his Councell of War, to all the officers and souldiers of the Army, and to every free-born commoner of England The humble remonstrance and complaint of all the prisoners of this nation for debt, in the severall goales and slaughter-houses of this land.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55915</idno>
+            <idno type="STC">Wing P3521</idno>
+            <idno type="STC">Wing H3602</idno>
+            <idno type="STC">ESTC R235076</idno>
+            <idno type="EEBO-CITATION">99834963</idno>
+            <idno type="PROQUEST">99834963</idno>
+            <idno type="VID">39614</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55915)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39614)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2031:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The prisoners remonstrance. To the right honourable, the Lord Generall Fairfax, and to his Councell of War, to all the officers and souldiers of the Army, and to every free-born commoner of England The humble remonstrance and complaint of all the prisoners of this nation for debt, in the severall goales and slaughter-houses of this land.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "August 30 1649".</note>
+                  <note>Reproduction of the originals in the British Library (Thomason Tracts, E572(8)), and the Lincoln's Inn Library, London (Early English books, 1641-1700, reel 2031).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Debt, Imprisonment for --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:39614:1" rendition="simple:additions"/>
+            <head>The Priſoners Remonſtrance.</head>
+            <head type="sub">To the right Honourable, the Lord Generall <hi>Fairfax,</hi> and to his Councell of War, to all the Officers and Souldiers of the Army, and to every Free-born Commoner of England.</head>
+            <head type="sub">The humble Remonſtrance and Complaint of all the Priſoners of this Nation for Debt, in the ſeverall Goales and ſlaughter-houſes of this Land.</head>
+            <bibl>
+               <hi>LAM. 1.2.</hi>
+            </bibl>
+            <q>
+               <p>She weepeth continually in the night, and her tears run down by her cheeks, among all her lovers, ſhe hath none to comfort her, all her friends have dealt unfaithfully, and are her enemies.</p>
+            </q>
+            <p>IT hath been, and ſtill is as the ardent deſire, ſo the great work &amp; labor of ſome eminent perſons in place &amp; authority, though not in goodneſſe and reputation, to render odious the honeſt and integrall party of this Nation, (eſpecially you who have endeavoured ſo much for the publike, without hope of remedy) redreſſe or eaſe, by miſrepreſentations of all their juſt cauſes and actions, to undermine that credit and honourable reſpect, which God the Fountain of all Juſtice and mercy is pleaſed to attribute unto his beloved Ones, the poor oppreſſed and deſpiſed people of this Nation; but Councells too ſubtill and forced, uſe oftentimes to produce contrary and unthought of ends; but as God makes us inſtrumentally ſubſervient to his will, in the tranſactions of his providentiall determinations, ſo we ought laboriouſly to endea<g ref="char:EOLhyphen"/>vour and ſtand faſt in all juſt and rightfull oppoſitions, to ſuch con<g ref="char:EOLhyphen"/>trary intereſts and proprieties, as neither by the Law of Creation, or nature was ever impoſed on us: and as the Goſpell of Chriſt giveth liberty and freedom in the inward man, ſo by the rule of proportion, as well as by the ſame Law, our bodies and outward man, ſhould receive and be inveſted with the like priviledges and Prerogatives; but man hath reſiſted his Maker, the clay hath ſaid to the Potter, <hi>why hast thou made me thus?</hi> although (ſaith he op<g ref="char:EOLhyphen"/>preſſor) God be a <hi>God of order, and not of confuſion,</hi> although his Government be principled upon the foundation of mercy,
+<pb n="2" facs="tcp:39614:2"/>and Juſtice towards the ſons of men, yet will we alter the frame of his Government; and whereas he hath given us the hearts of Lambs, and harmleſſe Doves, <hi>we will not have this man rule over us,</hi> but we will ſerve the God of this World, and according to his nature, aſſume the cruelty of Tygers, Wolves, Beares, Lyons; this is the cauſe why a man ruleth over another to his own hurt: and hence it is, that diſorders, warrs, tumults, ſeditions, ſtrife, envy, hatred, murther, tyranny, oppreſſion, ſervitude, impriſonment, and all ſuch cruelties, are exerciſed towards men; and the more the God of darkneſſe ruleth in the ſpirits of the <hi>children of diſobe<g ref="char:EOLhyphen"/>dience,</hi> there certainly men become more impudent in wickedneſſe; <hi>Their Judges judge for a reward,</hi>
+               <note place="margin">Jer. 5.35.</note> 
+               <hi>their Prophets prophecie lies, and the Prieſts receive gifts in their hands, and the people delight therein, our</hi> Magiſtrates <hi>eſtabliſh iniquity, by a Law, they overpaſſe the deeds of the wicked,</hi>
+               <note place="margin">Jer. 5.28.</note> 
+               <hi>they exerciſe no judgement, no not the judgement of the Fa<g ref="char:EOLhyphen"/>therleſſe;</hi> and therefore as the Lord, in the viſitations of Jeruſalem, <hi>Ezech.</hi> 9.4. ſet a mark upon the foreheads of them that mourned and cryed <hi>for all the abominations that were done in thè midst there<g ref="char:EOLhyphen"/>of;</hi> ſo we are aſſured that the God of this world hath ſet a mark on the right hands, and on the foreheads of them that worſhip the beaſt and his Image, <hi>Rev.</hi> 14.9.10. and we are perſwaded that the buying and ſelling, and grinding the faces of the poore, and ſending and giving gifts one to an other, is to us an external manifeſtation of this out ward mark, and impreſſion in their fore<g ref="char:EOLhyphen"/>heads, and in their hands. <hi>Theſe ſhall drink of the wine of the wrath of God, yea of the pure wine, which is powred into the cup of his wrath.</hi>
+            </p>
+            <p>But above all the inhumanities wherewith this diſtreſſed Com<g ref="char:EOLhyphen"/>mon-wealth is now incombred, there is none exceeds either for termleſſe durability, end leſſe miſery, or height of torment, the this involving of our perſons (which are the Temples of the Holy Ghoſt) into miſerable and tranſcendent ſlavery, to be incaged in ſuch loathſome dens, and hatefull dungeons, amongſt horrible ſtinks and noyſome vermine, which challenge the whole world and every Common-wealth of this Univerſe, and every diſtinct member thereof, to give in but one parallell comparable to thoſe horrible Pariſian maſſacres and murthers, cruelties and bar<g ref="char:EOLhyphen"/>barities, which are exerciſed on the perſons of men impriſoned for debt in this our Engliſh Nation; beſides the every way unlaw<g ref="char:EOLhyphen"/>fullneſſe, and diſuſage of this action in all other Countries, Chri<g ref="char:EOLhyphen"/>ſtian or Pagan. A Seſſions or Goal delivery puts an end to the
+<pb n="3" facs="tcp:39614:2"/>fears and expectations of Murtherers and Traytors,<note place="margin">Mat. 25.41, 42, 43</note> but what Law or what perſon relieveth a man impriſoned and in bonds? the Law which ſhould have been his antidote, is become his poyſon, and the Judges, the interpreters thereof are become his hangmen; nay our very Law-makers decree wicked decrees, and write grievous things, by keeping back the poor from judgement,<note place="margin">Jer. 10.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> and by taking away the judgement of the poor of this people, that widdowes may be their prey, and that they may ſpoil the fatherleſſe,<note place="margin">Iſa. 10.1, 2 Mica 6.16.</note> the ſta<g ref="char:EOLhyphen"/>tutes of <hi>Omri</hi> are kept, and all the manner of the houſe of <hi>Ahab,</hi> and they walk in their Councells; therefore they ſhall beare the reproach of this people: the ſtatutes and decrees of the Norman Conqueror, and his Succeſſors are ſtill obſerved, and the baſtards yoke of ſlavery continued unto us and our poſterity: thoſe Iron fetters which ſhould have been removed, and thoſe li<g ref="char:EOLhyphen"/>berties, which with ſo much blood and wealth we have regained are ſtill denyed, and inſtead thereof, endleſſe impriſonment, he<g ref="char:EOLhyphen"/>reditary impriſonment is entayled unto us and our poſterity for e<g ref="char:EOLhyphen"/>vermore. And now notwithſtanding, the late many years reſtleſſe labours and endeavours of the poor priſoner, and his fellow la<g ref="char:EOLhyphen"/>bourers in this our Engliſh Vineyeard, for liberty and freedome, notwithſtanding the many ſolemn Engagements, Oaths, Promi<g ref="char:EOLhyphen"/>ſes, Vowes, and Declarations of this preſent Parliament in gene<g ref="char:EOLhyphen"/>rall, and of every individuall Member there of in particular, not<g ref="char:EOLhyphen"/>withſtanding the numberleſſe Petitions and endeavours of all par<g ref="char:EOLhyphen"/>ties and intereſts in ſo juſt a cauſe, notwithſtanding there want<g ref="char:EOLhyphen"/>eth nothing at this preſent for the paſſing of that laudable Act for our releaſe, yet by the malevolent influence,<note place="margin">Mat. 23.14 23.25.27.28.32.33.35.36.</note> and ſupernatant power of the Lawyers it is ſtill obſtructed, and by an overpotent hand more then ordinary preſſed, and repreſſed by it, that ſome<g ref="char:EOLhyphen"/>thing may be found therein pretendedly conſequentiall and un<g ref="char:EOLhyphen"/>ſeaſonable, and ſo be made liable to a new Commitment, and our proſecutors deterred and overthrown in their apprehenſions of a<g ref="char:EOLhyphen"/>ny future perfection and accompliſhment thereof. Yea our condi<g ref="char:EOLhyphen"/>tion is yet more deplorable, by reaſon of their reſolvedneſs and vi<g ref="char:EOLhyphen"/>olent nature, not at all to be moved by the complaints of thoſe,<note place="margin">Pſal. 12.2.</note> who ſeek redreſſe at their hands; ſo that now deprived in a man<g ref="char:EOLhyphen"/>ner of all hope (which is uſually a comfort to thoſe in affliction) we are become ſo much the more ſenſible of the hardneſſe of our preſent condition.</p>
+            <p>It were endleſſe to remonſtrate unto you, the many ſeverall
+<pb n="2" facs="tcp:39614:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:39614:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:39614:4"/>orders and expreſſes that have iſſued out unto a ſelected Com<g ref="char:EOLhyphen"/>mittee of that Houſe, for a ſpeedy diſpatch; and drawing up of an Act for our releaſe, and how many ſeverall times it hath been impriſoned, and recommitted again upon meer deluſive objecti<g ref="char:EOLhyphen"/>ons, on purpoſe to protract the miſeries of the afflicted; what a profound diſeaſed Lethargy did it fall into about the year 1642, from whence it received a reſurrection &amp; reviver in the year 1645, ſince which time, it hath been toſſed like a giddy ball from one hand to another, by the Members of that houſe to this day, ſome<g ref="char:EOLhyphen"/>times awakened with a ſuddain Alarum of pretended rights, and again laid aſleep as oppreſſed with two much watchfullneſſe, untill at laſt it fell into the hands of Col. <hi>Martin,</hi> and from him to Col. <hi>Rigby,</hi> which for ſome amendments was recommitted; af<g ref="char:EOLhyphen"/>ter that into the hands of Mr. <hi>Lechemore,</hi> where it was like to have been buried in everlaſting ſilence, but after many long demurres, it was recommitted to Col. <hi>Rigby,</hi> who after ſome amendments, reported the ſame unto the Houſe, yet by Mr. Speakers obſtruction (as Mr. <hi>Lechemore</hi> affirmed) it received a new Commitment (poore thing, for its faults no doubt as well as the poor priſoners) and committed it into the hands of Mr. <hi>Reynolds,</hi> who by the former unneceſſary delaies ſpun out the length and time of the laſt Terme in promiſes, and repromiſes, Protractions and Rejoynders, whereupon on the 17. of July laſt, M. <hi>Whitlock</hi> made ſome objections againſt it, and up<g ref="char:EOLhyphen"/>on his motion it was referred to a new Committee, where Colo<g ref="char:EOLhyphen"/>nell <hi>Martin</hi> had the Chaire, who on the 23. of July reports the ſame into the houſe again; but it was then ordered to be reported on Friday afterwards, thereupon the 27. of the ſame moneth (after the report &amp; reading thereof) it was again recommitted in<g ref="char:EOLhyphen"/>to the hands of M. <hi>Martin</hi> and Mr. <hi>Fell,</hi> who reported the ſame into the Houſe the third of this inſtant Auguſt, but it was put of untill Munday afterwards, and on the ſeventh of this moneth a<g ref="char:EOLhyphen"/>gaine reported, and againe delayed untill the morrow morning but not reported untill the eighth of this moneth; whereupon the Houſe made two ſeverall Orders: Firſt, for a <hi>Commiſſion <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Grace,</hi> for the releaſe of ſuch as cannot pay their debts, and the M. <hi>Garland</hi> do bring the ſame into the Houſe the next morning which is not yet performed; the other was, that after the fin and ſecond time reading of the Act, it was again recommitted to the ſame Committee, who were ordered to ſit <hi>de die in diem,</hi> an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="5" facs="tcp:39614:4"/>to report the ſame with ſpeed, and yet that Committee hath ne<g ref="char:EOLhyphen"/>ver met at all unto this day, and we are confident never intend to doe; Gentlemen, what ſhall we ſay unto you? the potency of the Marſhall of the Kings-Bench, M. Speakers elder brother, the power of the Warden of the Fleet, with the ſame perſon, and all Lawyers is ſo great, and their bribes ſo large, that we feare ſome perſons have ſeen a viſion of Angells lately, upon which two wheels of the Kings-Bench and Fleet, the very doores and orb of this Common-wealth doth move, and turneth round, and from which is extracted in one yeer out of priſoners pockets ma<g ref="char:EOLhyphen"/>ny thouſand pounds, to the upholding of that wretched and a<g ref="char:EOLhyphen"/>bominable kingdome of contention and oppreſſion in the Law, as the <hi>Puteus inexhauſtus</hi> of this Nation, a well that can never be drawne dry.</p>
+            <p>It were innumerable to reckon up the many Petitions and Addreſſes, which have been made by the impriſoned Souldiery un<g ref="char:EOLhyphen"/>to the Houſe of Commons in this nature, and to their Commit<g ref="char:EOLhyphen"/>tees, Sub-Committees, the Councell of State, the Committee of Indempnity, by Letters, Advocates, Suits, and unexpreſſible hu<g ref="char:EOLhyphen"/>milities and demonſtrations of our endleſſe groans and miſeries, wherein we are become the unmerited objects of ſcandall and contempt, and our perſons expoſed without remedy to the mer<g ref="char:EOLhyphen"/>cileſſe rage of many hard-hearted perſons, whoſe revenge would reach thoſe black Parliamentary objects ſitting in the clouds,<note place="margin">Pſa. 82. to the end.</note> if they were within the compaſſe of their power, wherein our miſe<g ref="char:EOLhyphen"/>ry is yet more lamentable, that we who have undergone the ut<g ref="char:EOLhyphen"/>moſt of all dangers for them, and in whoſe ſervice we have conſu<g ref="char:EOLhyphen"/>med and ſpent our eſtates, and loſt the deareſt blood of our ſelves, children, brothers, couſins, and friends, in their cauſe, yet we are left naked, open and bare, and expoſed to the mercy of a malignant crew of infernall Machiavells, notwithſtanding the many Contracts, Vowes, Oaths, Declarations, and pro<g ref="char:EOLhyphen"/>miſes of protection from their revenge: and although we are become Creditors to this Parliament in ſuch large and ample ſums of money in ſeverall loans and various debts accruing and depen<g ref="char:EOLhyphen"/>ding upon our ſervice, ſince the tranſaction of theſe bloody warres.<note place="margin">
+                  <hi>Bracton.</hi> See the Plea of the Crowne, 1. p. 31.</note>
+            </p>
+            <p>Gentlemen, we deſire you to conſider, that all Lawes are com<g ref="char:EOLhyphen"/>prehended under a threefold diviſion: 1. The Law of Nature. 2. The Law of God, of Faith, or of the Goſpell. And 3. The
+<pb n="6" facs="tcp:39614:5"/>Law of Man, made upon the dictates of right reaſon: The Law of Nature requireth of us, not to do that to another man, which we will not have done to our ſelves, to render to every man his owne, and to confirme and diſtinguiſh his inheritance, birthright, propriety and poſſeſſion; the Law of God is a law of love, upon which principle all Statutes, Acts of Parliaments, and Conſtitu<g ref="char:EOLhyphen"/>tions, made and uſed for the Government of the people are founded, and whatſoever is againſt this Law hath ever by the worthy Sages of our Law been declared void. Thirdly, the Laws of men and the Municipall Lawes of this Realme have not their progeny from men, <hi>Alured, Alfred, Athelſtan, Edmundus, Edgar, Canutus,</hi>
+               <note place="margin">Mirror of Juſtices, made by <hi>Andrew Horne.</hi>
+               </note> 
+               <hi>Edward the Confeſſor, Henry</hi> the firſt, called <hi>Beuclerke,</hi> were the chiefe promoters of many neceſſary and good Lawes, yet if we looke into them, we ſhall find that moſt of them have their originall from a higher power, even from the Law of God, and of Faith; and although Hiſtorians to pleaſe the Succeſſors and lovers of the Norman yoke and tyranny, write that the ori<g ref="char:EOLhyphen"/>ginall of our common Lawes flowed firſt out of Normandy, yet that is not true in generall; for although the Conqueror intro<g ref="char:EOLhyphen"/>duced ſeverall Lawes from thence, yet ſeeing that the ſpirits of the Engliſh would not be bounded within ſuch unnaturall Pre<g ref="char:EOLhyphen"/>rogatives, without a bloody and uncertain war, was content to ſuffer the Engliſh Saxon Lawes to remain in force, and be heredi<g ref="char:EOLhyphen"/>tary to the Common-wealth of England, amongſt which all im<g ref="char:EOLhyphen"/>priſonments for debt was utterly againſt the great Charter of the Engliſh Liberties,<note place="margin">Mirror of Juſtices, p. 27.28.29.30.192.</note> and never came in force but in ſpeciall caſes, untill <hi>Henry</hi> the ſeventh and eighth introduced on the freedome of the people by a prevailing party of wilful Lawyers, ſince which time our fundamentall Lawes and Liberties have been trampled on, and as the Proverb is, lie now in water, and as <hi>Tully</hi> ſaid of the Senate of Rome, we have Lawes only written in Tables, like a ſword in a ſheath, the people being governed by others wills, and not by publike Lawes; if we ſhould trace now our Engliſh Lawyers through theſe foundations, we ſhould hardly diſcover a<g ref="char:EOLhyphen"/>ny footſteps of them, <hi>who having forſaken the right way have gone aſtray, following the way of</hi> Balaam <hi>the ſon of</hi> Boſor, <hi>which loved the wages of unrighteouſneſſe,</hi> 2 <hi>Pet.</hi> 2.15. And therefore Gentle<g ref="char:EOLhyphen"/>men, it is the deſire of our ſoules that you will begin at laſt to weigh the ſtate of your owne affaires, and conſidering the procee<g ref="char:EOLhyphen"/>dings of the preſent government, to reſolve no longer to ſtand
+<pb n="7" facs="tcp:39614:5"/>by as idle Spectators of your owne diſgraces, but find out ſome remedy for the time to come, in the behalfe of this diſtreſſed Nation, which may recompence our paſt loſſes, and ſtop the pre<g ref="char:EOLhyphen"/>cipice of our future ruine, which we ſee ſo undoubtedly lie be<g ref="char:EOLhyphen"/>fore us: and let our humble, yet honeſt Counſells exhort you to abandon the ſociety of ſelf-intereſts, and factions, and not ſo cruelly wound and rend aſunder the boſome of your owne Countrey, the welfare whereof you are obliged to maintain with the hazzard of your owne perſons, even to the laſt period of your lives; and how great a glory will it be for you to purge your ſelves from thoſe jealouſies the people have ſo wondrouſly con<g ref="char:EOLhyphen"/>ceived of your inclinations &amp; proceedings, &amp; you will merit much more of your Countrey by this ſo pious a reſolution, then by all your former actions put together, though ſeeming in your owne eyes never ſo glorious and beneficiall,<note place="margin">Ezek. 16.7 Eſa. 58.6, 7, 8.</note> for this will bring ſafety to your perſons, and ſatisfaction to your ſoules, whereas thoſe adde onely greatneſſe, reputation and uncertainty to your affaires.</p>
+            <p>And therefore Gentlemen, amongſt the many Remonſtran<g ref="char:EOLhyphen"/>cers, who with their deſires have preſented themſelves unto you, we are bold to intrude our ſelves unto your ſight and publike view, deſiring you to conſider that amongſt the many honourable requeſts which the Iriſh Officers made unto the Houſe, one was, that priſoners for debt might bee releaſed, who we are ſure had the ſame conſideration and fellow-feeling of our miſeries, which themſelves in particular might one day participate of, if this burthen were not taken off, whoſe eſtates, trade and means have been totally conſumed in the ſervice of the State, as well as their brethren, which are now in priſon, whoſe preſent deſperate condition and the forlorne and abject hopes of their affaires is ſuch, that they are inforced to remonſtrate to you, and the pub<g ref="char:EOLhyphen"/>like view, their unparalleld cruelties and oppreſſions, as not lon<g ref="char:EOLhyphen"/>ger willing tacitely to be the cauſers of their owne woe, where<g ref="char:EOLhyphen"/>in ſome of us your Souldiers and Officers are now cloſe impriſon<g ref="char:EOLhyphen"/>ed, and have been ſhot at, and extremely abuſed otherwaies, in be<g ref="char:EOLhyphen"/>ing guarded through the ſtreets, as in the time of the high Commiſ<g ref="char:EOLhyphen"/>ſion &amp; Star-Chamber, in a moſt ſhameful and diſgraceful manner, (like Murtherers and Traytors) to the Committee of Indempnity, to be examined upon Interrogatories againſt themſelves, contra<g ref="char:EOLhyphen"/>ry to the very Order of the Houſe, onely for appearing active for the paſſing of this laudable and truly Chriſtian Act of Mercy,
+<pb n="8" facs="tcp:39614:6"/>and Humanity. Seeing therefore life is denyed us, the precious jewells of our beings, our liberty detained from us, and our per<g ref="char:EOLhyphen"/>ſons thus ſubjected unto endleſſe ſlavery, and oppreſſion, we in<g ref="char:EOLhyphen"/>vite you, and beſeech you, as you tender the honour of Almighty God, and the welfare and liberty of this oppreſſed Nation, to aſ<g ref="char:EOLhyphen"/>ſiſt us in theſe our juſt deſires: and do implore you all, and every member of this honourable ſociety, every faithfull and well principled Souldier, and all that love the peace and freedome of this Nation, to ſtand up as one man in the defence of your poore afflicted brethren, and not ſuffer the many hungry and unpitied cries, and dying groans of your fellow-brethren and ſouldier in priſon, ſtill to call for juſtice, and without ſpeedy remedy to draw down ſome heavy judgement from the God of heaven o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this whole Nation, that ſo we may be freed from the power and tyranny of our unmerciful Depoſitors, and hard-hearted Goalers that all <hi>Capias's</hi> in Law for the future may be taken off, and ex<g ref="char:EOLhyphen"/>ceſſive Fees, and Chamber-rents mitigated, and reduced to the forme and mdell of the ancient Statutes of this Kingdome, deſi<g ref="char:EOLhyphen"/>ring you to conſider alſo, that whatſoever croſſe or calamit hath now befallen us, may indanger, if not totally ſubvert, you perſons, reputations, callings, families, and eſtates, the ſucceeding day and houre at hand to come. If there be therefore any fellow ſhip of the Spirit in you, if any bowels and mercies, thinke upon theſe things, and the God of mercy, peace, and perfect libert<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be with you all. Amen.</p>
+            <closer>
+               <dateline>
+                  <hi>From our cloſe impriſonments in the ſever all Dungeons and Goals of this Land,</hi> 
+                  <date>
+                     <hi>Auguſt</hi> 20. 1649.</date> 
+                  <hi>the first yeer of Englands decla<g ref="char:EOLhyphen"/>red liberty, but of our further and perpetu<g ref="char:EOLhyphen"/>all bondage and ſlavery.</hi>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
